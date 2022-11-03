@@ -14,7 +14,7 @@ section{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url("https://github.com/fasihai/fasihai.github.io/blob/main/bg.jpg")no-repeat;
+    background: url(fasihai.github.io/bg.jpg)no-repeat;
     background-size: cover;
     background-position: center;
 }
