@@ -232,9 +232,9 @@ ul {
 .loading {
   width: 6rem;
   height: 6rem;
-  border: 5px solid var(--grey-400);
+  border: 5px solid var(--red-dark);
   border-radius: 50%;
-  border-top-color: var(--primary-500);
+  border-top-color: var(--red-dark);
   animation: spinner 0.6s linear infinite;
 }
 .loading {
@@ -469,7 +469,7 @@ Recipes
   transition: var(--transition);
 }
 .tags-list a:hover {
-  color: var(--primary-500);
+  color: var(--red-dark);
 }
 .recipe {
   display: block;
@@ -618,7 +618,7 @@ Tags Page
   padding: 0.75rem 0;
 }
 .tag:hover {
-  background: var(--primary-500);
+  background: var(--red-dark);
 }
 .tag h5,
 .tag p {
